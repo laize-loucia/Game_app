@@ -44,11 +44,8 @@ Ouvrir dans le navigateur
 ```http://localhost:8000```
 
 &nbsp;
-
 Pour les logs, créer un fichier et autoriser PHP à écrire dedans ?? 
-
 &nbsp;
-
 ```mkdir logs```, ```touch logs/app.log```, ```chmod 664 logs/app.log```
 
 
