@@ -30,7 +30,6 @@ Vérifie que ça marche :
 ```
 php -v.
 ```
-&nbsp;
 
 Démarrer le serveur local depuis le dossier projet :
 ```cd game_app/public```
@@ -38,10 +37,9 @@ Démarrer le serveur local depuis le dossier projet :
 Ouvrir dans le navigateur
 ```php -S localhost:8000```
 ```http://localhost:8000```
-
-mkdir logs
-touch logs/app.log
-chmod 664 logs/app.log   # PHP doit pouvoir écrire dedans
+&nbsp;
+Pour les logs, créer un fichier et autoriser PHP à écrire dedans ?? 
+```mkdir logs```, ```touch logs/app.log```, ```chmod 664 logs/app.log```
 
 
 ### Améliorations
