@@ -4,6 +4,7 @@
 
 # Structure
 
+title: "Mon document"
 <center>
 
 ![Architecture](Structure.png "TRstrcuture").
@@ -25,7 +26,7 @@ La partie back-end est codée en langage **PHP**, pour les fonctionnalités de g
 &nbsp;
 Installer PHP en local sur Linux (Ubuntu)
 ```
-sudo apt update »
+sudo apt update
 sudo apt install php
 ```
 &nbsp;
