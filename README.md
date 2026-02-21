@@ -4,14 +4,18 @@
 
 # Structure
 
+<center>
+
 ![Architecture](Structure.png "TRstrcuture").
+
+</center>
 
 
 
 
 &nbsp;
 
-# Technologies et mplémentation
+# Technologies
 
 Le jeu est entièrement écrit en **JS** et tourne dans le navigateur.&nbsp;
 La partie back-end est codée en langage **PHP**, pour les fonctionnalités de gérer le score, vérifier le mot de passe, la connexion, détruire la session et garder en écrit les événements
