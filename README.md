@@ -23,13 +23,15 @@ Installer PHP en local sur Linux (Ubuntu)
 « sudo apt update »
 sudo apt install php
 
+&nbsp;
+
 Vérifie que ça marche : 
 ```
 
-Voici un bloc de code.
+php -v.
 
 ```
-php -v
+
 
 Démarrer le serveur local depuis le dossier projet :
 cd game_app/public
