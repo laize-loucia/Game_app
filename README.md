@@ -13,8 +13,8 @@
 
 # Technologies et Implémentation
 
-Le jeu est écrit en JS et tourne entièrement dans le navigateur.
-La partie back-end est codée en langage PHP, pour les fonctionnalités de gérer le score, vérifier le mot de passe, la connexion, détruire la session et garder en écrit les événements
+Le jeu est entièrement écrit en **JS** et tourne dans le navigateur.
+La partie back-end est codée en langage **PHP**, pour les fonctionnalités de gérer le score, vérifier le mot de passe, la connexion, détruire la session et garder en écrit les événements
 
 &nbsp;
 Installer PHP en local sur Linux (Ubuntu)
@@ -36,7 +36,9 @@ Démarrer le serveur local depuis le dossier projet :
 Ouvrir dans le navigateur
 ```php -S localhost:8000```
 ```http://localhost:8000```
+
 &nbsp;
+
 Pour les logs, créer un fichier et autoriser PHP à écrire dedans ?? 
 
 &nbsp;
