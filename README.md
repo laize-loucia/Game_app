@@ -1,14 +1,17 @@
 
-### Contexte
+# Contexte
 
 
-### Structure
+# Structure
 
 ![Architecture](structure.png "TRstrcuture").
 
 
+# Mesures
 
-### Mesures d'accessibilité
+## Mesures d'accessibilité
+
+## Mesures de sécurité
 
 
 ### Technologies et fonctionnement
@@ -30,7 +33,9 @@ Ouvrir dans le navigateur
 php -S localhost:8000
 http://localhost:8000
 
-
+mkdir logs
+touch logs/app.log
+chmod 664 logs/app.log   # PHP doit pouvoir écrire dedans
 
 
 ### Améliorations
