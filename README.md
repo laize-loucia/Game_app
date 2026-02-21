@@ -45,6 +45,7 @@ Ouvrir dans le navigateur
 
 &nbsp;
 Pour les logs, créer un fichier et autoriser PHP à écrire dedans ?? 
+
 &nbsp;
 ```mkdir logs```, ```touch logs/app.log```, ```chmod 664 logs/app.log```
 
