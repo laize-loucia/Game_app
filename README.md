@@ -4,7 +4,6 @@
 
 # Structure
 
-title: "Mon document"
 <center>
 
 ![Architecture](Structure.png "TRstrcuture").
@@ -58,6 +57,6 @@ Pour les logs, créer un fichier et autoriser PHP à écrire dedans ??
 
 # Améliorations
 
-# sources
+# Sources
 
 https://www.how2lab.com/programming/php/mvc-beginner-guide
