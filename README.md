@@ -24,6 +24,11 @@ Installer PHP en local sur Linux (Ubuntu)
 sudo apt install php
 
 Vérifie que ça marche : 
+```
+
+Voici un bloc de code.
+
+```
 php -v
 
 Démarrer le serveur local depuis le dossier projet :
