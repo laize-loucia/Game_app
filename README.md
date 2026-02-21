@@ -41,9 +41,8 @@ Démarrer le serveur local depuis le dossier projet :
 Ouvrir dans le navigateur
 ```php -S localhost:8000```
 ```http://localhost:8000```
-&nbsp;&nbsp;
-
-Pour les logs, créer un fichier et autoriser PHP à écrire dedans ?? 
+&nbsp;
+Pour les logs, créer un fichier et autoriser PHP à écrire dedans ?? &nbsp;
 ```mkdir logs```, ```touch logs/app.log```, ```chmod 664 logs/app.log```
 
 
