@@ -14,7 +14,9 @@
 ## Mesures de sécurité
 
 
-### Technologies et fonctionnement
+&nbsp;
+
+# Technologies et fonctionnement
 
 Le jeu est écrit en JS et tourne entièrement dans le navigateur.
 La partie back-end est codée en langage PHP, pour les fonctionnalités de gérer le score, vérifier le mot de passe, la connexion, détruire la session et garder en écrit les événements
@@ -34,6 +36,8 @@ php -v.
 Démarrer le serveur local depuis le dossier projet :
 ```cd game_app/public```
 
+&nbsp;
+
 Ouvrir dans le navigateur
 ```php -S localhost:8000```
 ```http://localhost:8000```
@@ -42,8 +46,8 @@ Pour les logs, créer un fichier et autoriser PHP à écrire dedans ??
 ```mkdir logs```, ```touch logs/app.log```, ```chmod 664 logs/app.log```
 
 
-### Améliorations
+# Améliorations
 
-### sources
+# sources
 
 https://www.how2lab.com/programming/php/mvc-beginner-guide
