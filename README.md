@@ -20,18 +20,16 @@ Le jeu est écrit en JS et tourne entièrement dans le navigateur.
 La partie back-end est codée en langage PHP, pour les fonctionnalités de gérer le score, vérifier le mot de passe, la connexion, détruire la session et garder en écrit les événements
 
 Installer PHP en local sur Linux (Ubuntu)
-« sudo apt update »
+```
+sudo apt update »
 sudo apt install php
-
+```
 &nbsp;
-
 Vérifie que ça marche : 
 ```
-
 php -v.
-
 ```
-
+&nbsp;
 
 Démarrer le serveur local depuis le dossier projet :
 cd game_app/public
