@@ -40,6 +40,8 @@ Démarrer le serveur local depuis le dossier projet :
 &nbsp;
 
 Ouvrir dans le navigateur
+
+&nbsp;
 ```php -S localhost:8000```
 ```http://localhost:8000```
 
