@@ -4,7 +4,7 @@
 
 # Structure
 
-![Architecture](structure.png "TRstrcuture").
+![Architecture](Structure.png "TRstrcuture").
 
 
 # Mesures
