@@ -2,7 +2,11 @@
 ### Contexte
 
 
-### Structure du projet
+### Structure
+
+
+### Architecture
+
 
 
 ### Mesures d'accessibilité
