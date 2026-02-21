@@ -36,8 +36,8 @@ Démarrer le serveur local depuis le dossier projet :
 ```cd game_app/public```
 
 Ouvrir dans le navigateur
-php -S localhost:8000
-http://localhost:8000
+```php -S localhost:8000```
+```http://localhost:8000```
 
 mkdir logs
 touch logs/app.log
