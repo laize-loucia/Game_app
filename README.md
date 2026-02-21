@@ -4,12 +4,14 @@
 
 ### Structure
 
-
-### Architecture
+![Architecture](structure.png "TRverse Proxy Role").
 
 
 
 ### Mesures d'accessibilité
+
+
+### Outils
 
 
 ### sources
