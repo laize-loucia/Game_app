@@ -21,7 +21,7 @@ Le pseudo est admin et le mot de passe pour jouer est *1234*
 
 &nbsp;
 
-En raison d'un manque de temps, nous n'avons pas eu le temps de développer cette arborescence de fichiers. 
+En raison d'un délai imposé d'1 semaine, nous n'avons pas eu le temps de développer cette arborescence de fichiers. 
 
 
 # Technologies
